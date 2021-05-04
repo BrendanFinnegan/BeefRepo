@@ -1,0 +1,12 @@
+body {
+    background: rgb(38, 233, 80)
+}
+p#donatelo {
+    color:blueviolet;
+    font-size: larger;
+    font-weight:900;
+    
+}
+h1 {
+    text-align: center;
+}
